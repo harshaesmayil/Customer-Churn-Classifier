@@ -120,7 +120,7 @@ Provided the strongest balance across Accuracy, Precision, Recall, F1-score and 
 
 ### Repository Structure
 
-![Repo]<img width="464" height="645" alt="image" src="https://github.com/user-attachments/assets/9b951854-f09b-4196-a968-16d3d4e3fa86" />
+<img width="464" height="645" alt="image" src="https://github.com/user-attachments/assets/9b951854-f09b-4196-a968-16d3d4e3fa86" />
 
 
 ### EDA
